@@ -2,7 +2,7 @@
 
 ## References
 - Aguet, Francois, Costin N. Antonescu, Marcel Mettlen, Sandra L. Schmid, and Gaudenz Danuser, Advances in Analysis of Low Signal-to-Noise Images Link Dynamin and AP2 to the Functions of an Endocytic Checkpoint, Developmental Cell, 26 (2013), 279?91
-- Danuser lab [http://www.utsouthwestern.edu/labs/danuser/software/#cme-anchor](cmeAnalysisPackage)
+- Danuser lab [cmeAnalysisPackage](http://www.utsouthwestern.edu/labs/danuser/software/#cme-anchor)
 
 ## What's inside?
 **Updated cmeAnalysisPackage** for newer version Matlab (Tested: Matlab R2016a). 
